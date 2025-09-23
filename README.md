@@ -33,6 +33,8 @@ The dataset includes order-level details, and my work focuses on identifying tre
 - Data source: foodhub_order (CSV)
 - Contact: Jessica Kilby
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 
 ## Progress Log
 
