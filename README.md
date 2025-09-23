@@ -44,3 +44,12 @@ Completed Section 1 (Questions 1–5) of the analysis.
 - Identified missing values and non-standard entries such as `'Not given'` in the `rating` column.
 - Generated descriptive statistics and observations to support future imputation and modeling.
 - Documented insights in Markdown cells for clarity and stakeholder readability.
+
+**2025-09-23**  
+Completed Section 2 (Questions 6–11) of the analysis.  
+- Performed univariate analysis on `cost_of_the_order` and `delivery_time`, including summary statistics and visualizations.  
+- Calculated the percentage of orders exceeding $20 and visualized the result using a pie chart.  
+- Determined the mean delivery time and formatted it for professional reporting.  
+- Identified the top five customers by order count and extracted their IDs for further analysis.  
+- Composed stakeholder-ready insights and refined phrasing for observations and README documentation.  
+- Identified the most popular cuisine type on weekends using a countplot, highlighting customer preferences by day.
