@@ -1,4 +1,4 @@
-# 📊 Food Hub
+# 🍽️ Food Hub
         
 ## Project Overview
 
