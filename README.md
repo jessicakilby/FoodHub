@@ -24,10 +24,7 @@ The dataset includes order-level details, and my work focuses on identifying tre
 - `FoodHub.ipynb`: This Jupyter Notebook contains the full workflow for the project, including data import, cleaning, exploration, and analysis. It addresses core business questions using Python libraries such as pandas, matplotlib, and seaborn, and presents insights to support strategic decisions around restaurant demand and customer experience.
 
 > **Disclaimer**: The Markdown content and analytical workflow within the notebook were provided by Great Learning as part of their instructional material. This includes the structure, prompts, and guiding questions for the analysis. All Python code cells, data cleaning, and exploratory work were authored independently.
-        
-## Output
-- Summary tables in `outputs/`
-- Charts for dashboard embedding
+
         
 ## Notes
 - Data source: foodhub_order (CSV)
@@ -35,6 +32,7 @@ The dataset includes order-level details, and my work focuses on identifying tre
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+
 
 ## Progress Log
 
