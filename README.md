@@ -42,3 +42,24 @@ Completed Section 1 (Questions 1–5) of the analysis.
 - Identified missing values and non-standard entries such as `'Not given'` in the `rating` column.
 - Generated descriptive statistics and observations to support future imputation and modeling.
 - Documented insights in Markdown cells for clarity and stakeholder readability.
+
+**2025-09-23**
+Completed Section 2 (Questions 6–11) of the analysis.
+- Performed univariate analysis on cost_of_the_order and delivery_time, including summary statistics and visualizations.
+- Calculated the percentage of orders exceeding $20 and visualized the result using a pie chart.
+- Determined the mean delivery time and formatted it for professional reporting.
+- Identified the top five customers by order count and extracted their IDs for further analysis.
+- Composed stakeholder-ready insights and refined phrasing for observations and README documentation.
+- Identified the most popular cuisine type on weekends using a countplot, highlighting customer preferences by day.
+
+**2025-09-24**
+- Implemented tiered commission logic for company revenue.
+- Filtered restaurants by rating count (>50) and average rating (>4.0).
+- Generated insights and visualizations for top-performing restaurants.
+- Explored weekend cuisine trends and refined summary phrasing.
+- Validated and documented net revenue calculations.
+
+**2025-09-25**
+- Refined visual observations across all dashboard plots, clarifying weekday vs weekend trends and correcting phrasing for accuracy.
+- Cleaned up markdown formatting in the README, including escaped dollar signs. Added missing comments to code cells.
+- Enhanced the correlation heatmap by renaming columns for clarity and removing irrelevant identifiers (customer_id, order_id).
