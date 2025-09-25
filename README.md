@@ -25,9 +25,6 @@ The dataset includes order-level details, and my work focuses on identifying tre
 
 > **Disclaimer**: The Markdown content and analytical workflow within the notebook were provided by Great Learning as part of their instructional material. This includes the structure, prompts, and guiding questions for the analysis. All Python code cells, data cleaning, and exploratory work were authored independently.
         
-## Output
-- Summary tables in `outputs/`
-- Charts for dashboard embedding
         
 ## Notes
 - Data source: foodhub_order (CSV)
