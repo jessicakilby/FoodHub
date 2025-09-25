@@ -60,3 +60,8 @@ Completed Section 2 (Questions 6–11) of the analysis.
 - Generated insights and visualizations for top-performing restaurants.
 - Explored weekend cuisine trends and refined summary phrasing.
 - Validated and documented net revenue calculations.
+
+- **2025-09-25**
+- Refined visual observations across all dashboard plots, clarifying weekday vs weekend trends and correcting phrasing for accuracy.
+- Cleaned up markdown formatting in the README, including escaped dollar signs. Added missing comments to code cells.
+- Enhanced the correlation heatmap by renaming columns for clarity and removing irrelevant identifiers (customer_id, order_id).
