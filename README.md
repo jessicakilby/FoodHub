@@ -53,3 +53,10 @@ Completed Section 2 (Questions 6–11) of the analysis.
 - Identified the top five customers by order count and extracted their IDs for further analysis.  
 - Composed stakeholder-ready insights and refined phrasing for observations and README documentation.  
 - Identified the most popular cuisine type on weekends using a countplot, highlighting customer preferences by day.
+
+**2025-09-24**  
+- Implemented tiered commission logic for company revenue.
+- Filtered restaurants by rating count (>50) and average rating (>4.0).
+- Generated insights and visualizations for top-performing restaurants.
+- Explored weekend cuisine trends and refined summary phrasing.
+- Validated and documented net revenue calculations.
