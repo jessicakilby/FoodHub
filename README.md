@@ -50,6 +50,7 @@ Completed Section 2 (Questions 6–11) of the analysis.
 - Identified the most popular cuisine type on weekends using a countplot, highlighting customer preferences by day.
 
 **2025-09-24**
+Completed Section 3 (Questions 12-16) 
 - Implemented tiered commission logic for company revenue.
 - Filtered restaurants by rating count (>50) and average rating (>4.0).
 - Generated insights and visualizations for top-performing restaurants.
@@ -57,6 +58,14 @@ Completed Section 2 (Questions 6–11) of the analysis.
 - Validated and documented net revenue calculations.
 
 **2025-09-25**
+Completed Final Conclusion and Recommendations
 - Refined visual observations across all dashboard plots, clarifying weekday vs weekend trends and correcting phrasing for accuracy.
 - Cleaned up markdown formatting in the README, including escaped dollar signs. Added missing comments to code cells.
 - Enhanced the correlation heatmap by renaming columns for clarity and removing irrelevant identifiers (customer_id, order_id).
+
+**2025-09-27**
+Completed Final PDF for submission
+- Refactored Cuisine Type, Day of the Week and RAting univarite visualizations into a single subplot.
+- In addition to data summary, explicitly calculated min/max/avg for Food Preparation Time.
+- Merge master to main.
+- Convert ipynb file to HTML and then PDF for final submission.
